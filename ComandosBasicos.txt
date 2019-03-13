@@ -1,0 +1,25 @@
+git config --global user.name "your name"
+git config --global user.email "sakdj@sad.com"
+
+git ls-files = lista arquivos que sao controlados pelo git
+git init
+
+git add . ou git add index.html(nome do arquivo)
+git add -i
+
+git status
+git commit -m "Comentario do commit"
+
+git log
+git whatchanged -p
+
+git remote 
+git remote add origin "url do repositorio criado no git"
+
+git push origin master
+(informar senha e usuario corretamente (se errar 3 bloqueia))
+
+
+
+
+
